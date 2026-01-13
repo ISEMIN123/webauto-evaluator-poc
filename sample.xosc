@@ -1,1 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSCENARIO>
+  <FileHeader
+    revMajor="1"
+    revMinor="0"
+    date="2026-01-01"
+    description="Web.Auto Evaluator PoC scenario"
+    author="ISEMIN123"/>
+
+  <Storyboard>
+    <Init/>
+    <Story name="dummy_story"/>
+  </Storyboard>
+</OpenSCENARIO>
 
