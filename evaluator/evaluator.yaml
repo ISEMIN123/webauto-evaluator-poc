@@ -1,1 +1,9 @@
+evaluator:
+  name: webauto-evaluator-poc
+  description: Minimal evaluator config for Web.Auto PoC
+
+simulation:
+  simulator: scenario_simulator_v2
+  scenario_path: scenarios/sample.xosc
+  timeout: 300
 
