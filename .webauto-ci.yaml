@@ -1,0 +1,13 @@
+version: 1
+
+evaluation:
+  simulator: scenario_simulator_v2
+
+  scenario:
+    path: scenarios/sample.xosc
+
+  evaluator:
+    config: evaluator/evaluator.yaml
+    metrics: evaluator/metrics.yaml
+
+  timeout: 300
